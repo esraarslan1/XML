@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Catalog>
+
+	<Book>
+		<Title>Momo</Title>
+		<Author>Michael Ende</Author>
+		<ISBN>978-605-299-301-9</ISBN>
+		<Publisher>Pegasus Yayınları</Publisher>
+		<Date>2017</Date>
+	</Book>
+         
+        <Book>
+                <Title>Otomatik Portakal</Title>
+		<Author>Anthony Burgess</Author>
+		<ISBN>978-9944-88-970-6</ISBN>
+		<Publisher>Türkiye İş Bankası Kültür Yayınları</Publisher>
+		<Date>2014</Date>	
+	</Book>
+
+	<Book>
+		<Title>Genç Werther'in Acıları</Title>
+		<Author>Johann Wolfgang Goethe</Author>
+		<ISBN>978-605-2398-45-6</ISBN>
+		<Publisher>Ren Kitap</Publisher>
+		<Date>2018</Date>
+	</Book>
+
+	<Book>
+		<Title>İki Şehrin Hikayesi</Title>
+		<Author>Charles Dickens</Author>
+		<ISBN>979-994-435-305-1</ISBN>
+		<Publisher>Anonim Yayıncılık</Publisher>
+		<Date>2020</Date>
+	</Book>
+
+	<Book>
+		<Title>Yüzbaşı'nın Kızı</Title>
+		<Author>Aleksandır Sergeyeviç Puşkin</Author>
+		<ISBN>979-994-435-319-8</ISBN>
+		<Publisher>Anonim Yayıncılı</Publisher>
+		<Date>2018</Date>
+	</Book>
+
+	<Book>
+		<Title>İnsan Ne İle Yaşar?</Title>
+		<Author>Lev Nikolayeviç Tolstoy</Author>
+		<ISBN>978-605-703-8</ISBN>
+		<Publisher>Türkiye İş Bankası Kültür Yayınları</Publisher>
+		<Date>2018</Date>
+	</Book>
+
+	<Book>
+		<Title>Köpek Kalbi</Title>
+		<Author>Mihail Bulgakov</Author>
+		<ISBN>978-605-332-594-9</ISBN>
+		<Publisher>Türkiye İş Bankası Kültür Yayınları</Publisher>
+		<Date>2019</Date>
+	</Book>
+
+	<Book>
+		<Title>Fahrenheit</Title>
+		<Author>Ray Bradbury</Author>
+		<ISBN>978-605-375-781-8</ISBN>
+		<Publisher>İthaki Yayınları</Publisher>
+		<Date>2020</Date>
+	</Book>
+
+	<Book>
+		<Title>Simyacı</Title>
+		<Author>Paulo Coelho</Author>
+		<ISBN>978-975-07-2643-9</ISBN>
+		<Publisher>Can Yayınları</Publisher>
+		<Date>2017</Date>
+	</Book>
+
+	<Book>
+		<Title>Ben, Kirke</Title>
+		<Author>Madeline Miller</Author>
+		<ISBN>978-605-375-958-4</ISBN>
+		<Publisher>İthaki Yayınları</Publisher>
+		<Date>2019</Date>
+	</Book>
+
+	<Book>
+		<Title>Yalnız Seni Arıyorum - Nahit Hanım'a Mektuplar </Title>
+		<Author>Orhan Veli</Author>
+		<ISBN>978-975-08-2708-2</ISBN>
+		<Publisher>Yapı Kredi Yayınları</Publisher>
+		<Date>2014</Date>
+	</Book>
+
+	<Book>
+		<Title>Sefiller</Title>
+		<Author>Victor Hugo</Author>
+		<ISBN>978-605-9702-65-2</ISBN>
+		<Publisher>Koridor Yayıncılık</Publisher>
+		<Date>2018</Date>
+	</Book>
+
+	<Book>
+		<Title>Yaban Muzu</Title>
+		<Author>José Saramago</Author>
+		<ISBN>978-975-07-2553-1</ISBN>
+		<Publisher>Can Yayınları</Publisher>
+		<Date>2019</Date>
+	</Book>
+
+	<Book>
+		<Title>Cemile</Title>
+		<Author>Orhan Kemal</Author>
+		<ISBN>978-975-289-553-9</ISBN>
+		<Publisher>Everest Yayınları</Publisher>
+		<Date>2019</Date>
+	</Book>
+
+	<Book>
+		<Title>Sineklerin Tanrısı</Title>
+		<Author>William Golding</Author>
+		<ISBN>978-975-458-290-1</ISBN>
+		<Publisher>Türkiye İş Bankası Kültür Yayınları</Publisher>
+		<Date>2019</Date>
+	</Book>
+
+	<Book>
+		<Title>Küçük Şeylerin Tanrısı</Title>
+		<Author>Arundathi Roy</Author>
+		<ISBN>978-975-510-821-6</ISBN>
+		<Publisher>Can Yayınları</Publisher>
+		<Date>2018</Date>
+	</Book>
+
+	<Book>
+		<Title>Bülbülü Öldürmek</Title>
+		<Author>Harper Lee</Author>
+		<ISBN>978-975-570-984-9</ISBN>
+		<Publisher>Sel Yayıncılık</Publisher>
+		<Date>2018</Date>
+	</Book>
+
+	<Book>
+		<Title>Yer Altından Notlar</Title>
+		<Author>Fyodor Dostoyevski</Author>
+		<ISBN>978-975-073949-1</ISBN>
+		<Publisher>Can Yayıncılık</Publisher>
+		<Date>2019</Date>
+	</Book>
+
+	<Book>
+		<Title>Bilinmeyen Bİr Kadının Mektubu</Title>
+		<Author>Stefan Zweig</Author>
+		<ISBN>978-605-2398-41-8</ISBN>
+		<Publisher>Ren Kİtap</Publisher>
+		<Date>2018</Date>
+	</Book>
+
+	<Book>
+		<Title>Dönüşüm</Title>
+		<Author>Franz Kafka</Author>
+		<ISBN>978-605-360-932-2</ISBN>
+		<Publisher>Türkiye İş Bankası Kültür Yayınları</Publisher>
+		<Date>2017</Date>
+	</Book>
+
+	<Book>
+		<Title>Bilinmeyen Bir Adanın Öyküsü</Title>
+		<Author>José Saramago</Author>
+		<ISBN>978-605-4927-57-9</ISBN>
+		<Publisher>Kırmızı Kedi Yayınevi</Publisher>
+		<Date>2019</Date>
+	</Book>
+
+	<Book>
+		<Title>Sokrates'in Savunması</Title>
+		<Author>Platon</Author>
+		<ISBN>978-605-68687-4-0</ISBN>
+		<Publisher>Ren Kitap</Publisher>
+		<Date>2018</Date>
+	</Book>
+
+	<Book>
+		<Title>Küçük Prens</Title>
+		<Author>Antonie De Saint-Exupéry</Author>
+		<ISBN>605-2005-17-0</ISBN>
+		<Publisher>Ema Kİtap</Publisher>
+		<Date>2018</Date>
+	</Book>
+</Catalog>
